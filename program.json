@@ -1,0 +1,10 @@
+{
+    "program": "mbti.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpH6yJSbNkDEktdZh41EXsqSSUTFEykMD3BntpGEAzyxMD",
+        "address": "aleo1nq9gtupdr9j8zv7zmleum203s40y45fl6xqgg2d0ysfalmwshvrsv6uwrc"
+    },
+    "license": "MIT"
+}
